@@ -30,3 +30,4 @@ if (birhtday == birhtday2) {
 } else {
     console.log("birhtday are not equal");
 }
+1
